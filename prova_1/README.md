@@ -29,7 +29,7 @@ contexto SUPERVISIONADO e para classificação:
 4. Escolha 2 métricas de similaridade(diferentes distâncias ou outras métricas-correlação,por exemplo)para definir o(s) vizinho(s)mais próximos e explique os resultados encontrados.
 5. Melhor K e melhor distância e testar com o conjunto de atributos do item 2.
 
-4 - **(2Pontos)** Considerando a matriz de confusão abaixo, quais são os valores das métricas listadas abaixo?
+4 - **(2 Pontos)** Considerando a matriz de confusão abaixo, quais são os valores das métricas listadas abaixo?
 
 * Classe Verdadeira - Vertical
 * Classe Predita - Horizontal
